@@ -1,0 +1,8 @@
+name: Teleport
+main: com.empcraft.Teleport
+version: 0.0.1
+author: Empire92
+website: www.empcraft.com
+commands:
+   random:
+      description: Random!
